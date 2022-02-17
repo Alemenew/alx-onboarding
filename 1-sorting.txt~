@@ -1,0 +1,15 @@
+Pseudo Code:
+
+Write "please enter 3 numbers"
+
+Read n1,n2,n3
+
+If(n1 < n2)
+  set n1 min
+Else
+  Set max to n1
+if(n3 < min)
+ Set min to n3
+
+Write "The min is"
+Write min
